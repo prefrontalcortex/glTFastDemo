@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   quality:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 3
   enabled:
     m_OverrideState: 0
     m_Value: 1
@@ -35,11 +35,11 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   usedAlgorithm:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   depthBufferThickness:
     m_OverrideState: 0
-    m_Value: 0.01
+    m_Value: 0.023
   screenFadeDistance:
     m_OverrideState: 0
     m_Value: 0.1
@@ -47,8 +47,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0.75
   m_RayMaxIterations:
-    m_OverrideState: 0
-    m_Value: 32
+    m_OverrideState: 1
+    m_Value: 128
   rayMiss:
     m_OverrideState: 0
     m_Value: 3
