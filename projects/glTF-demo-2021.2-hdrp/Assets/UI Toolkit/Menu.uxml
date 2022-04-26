@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/UnityThemes/RuntimeStyle.uss?fileID=7433441132597879392&amp;guid=5aa07f7bea606ca41a64bcf625a28ccd&amp;type=3#RuntimeStyle" />
+    <ui:VisualElement style="right: 8px; bottom: 8px; position: absolute;">
+        <ui:Toggle label="HDRI Sky" name="toggle-hdri" />
+        <ui:Toggle label="Light Rig" name="toggle-lights" />
+        <ui:Toggle label="RTX Effects" name="toggle-rtx" />
+        <ui:Toggle label="Pathtracing" name="toggle-pathtracing" />
+    </ui:VisualElement>
+</ui:UXML>
