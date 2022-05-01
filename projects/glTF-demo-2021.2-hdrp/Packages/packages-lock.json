@@ -13,9 +13,7 @@
       "version": "file:../../../packages/glTF-demo",
       "depth": 0,
       "source": "local",
-      "dependencies": {
-        "com.atteneder.gltf-test-framework": "0.1.0"
-      }
+      "dependencies": {}
     },
     "com.atteneder.gltf-test-framework": {
       "version": "file:../../../packages/gltf-test-framework",
